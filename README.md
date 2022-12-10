@@ -1,5 +1,5 @@
-Very easy calculator written on C++
-===================================
+Simple calculator written on C++
+================================
 
 To compile: `make`
 
